@@ -1,2 +1,2 @@
 # genius-homework-1
-Homework 1 from Genius space courses
+Homework from Genius space courses FullStack Developer
